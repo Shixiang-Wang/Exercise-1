@@ -7,8 +7,6 @@ English: https://www.kaggle.com/datasets/qusaybtoush1990/english-news?resource=d
 
 Chinese: https://github.com/lxj5957/CLTS-Dataset
 
-## Results
-
 ## References
 Honnibal, M., & Montani, I. (2017). spaCy 2: Natural language understanding with Bloom embeddings, convolutional neural networks, and incremental parsing. To appear.
 
