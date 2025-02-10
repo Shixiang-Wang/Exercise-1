@@ -9,5 +9,7 @@ Chinese: https://github.com/lxj5957/CLTS-Dataset
 
 ## References
 Honnibal, M., & Montani, I. (2017). spaCy 2: Natural language understanding with Bloom embeddings, convolutional neural networks, and incremental parsing. To appear.
+
 Liu, X., Zhang, C., Chen, X., Cao, Y., & Li, J. (2020). CLTS: A New Chinese Long Text Summarization Dataset. Natural Language Processing and Chinese Computing.
+
 Zipf, G. K. (1935). The Psycho-Biology of Language: An Introduction to Dynamic Philology. Houghton Mifflin.
